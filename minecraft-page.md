@@ -8,7 +8,7 @@ layout: default
 Minecraft is a Game made by Mojang (on Java) in which the user survives, mines, fights and builds amazing creations like the one below -
 <!-- image awesome creaion should be here -->
 
-![image](/images/my-house-shaders.png)
-My Island with my human shaped house with shaders(more about that later)
+![image](/images/myislandfinalnoshaders copy.png)
+My Island with my human shaped house at night
 
 [back](./)
