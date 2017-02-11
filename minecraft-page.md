@@ -9,6 +9,6 @@ Minecraft is a Game made by Mojang (on Java) in which the user survives, mines, 
 <!-- image awesome creaion should be here -->
 
 ![image](/images/my-house-shaders.png)
-Format: ![Alt Text](url)
+My Island with my human shaped house with shaders(more about that later)
 
 [back](./)
