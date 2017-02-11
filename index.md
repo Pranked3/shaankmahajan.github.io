@@ -19,3 +19,16 @@ The coding page has all the lessons and tips on one page but if you want to go d
 [w3.css](w3-css-lessons)
 <br />
 [w3.js](w3-js-lessons)
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+Website made by shaankmahajan. Check out my youtube channel -
+[My Youtube Channel](https://www.youtube.com/channel/UCXyfb_76fKo1UpTx95JfvUg)
