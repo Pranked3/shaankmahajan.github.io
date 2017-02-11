@@ -6,21 +6,11 @@ layout: default
 
 [Link to another page](another-page).
 
-Check out my youtube channel -
-https://www.youtube.com/channel/UCXyfb_76fKo1UpTx95JfvUg
-
-<HTML>
-<link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
-</html>
-
 # [](#header-1)Header 1
-<HTML>
-<link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
-<div class="w3-blue">My Website</div>
-</html>
+This is a header
 
 ## [](#header-2)Header 2
-
+header 2
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
