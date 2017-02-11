@@ -2,17 +2,21 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
 [Link to another page](another-page).
 
-There should be whitespace between paragraphs.
+Check out my youtube channel -
+https://www.youtube.com/channel/UCXyfb_76fKo1UpTx95JfvUg
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+<!DOCTYPE html>
+<HTML>
+<head>
+<link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
 
 # [](#header-1)Header 1
+<div class="w3-blue">My Website</div>
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## [](#header-2)Header 2
 
