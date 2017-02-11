@@ -4,15 +4,14 @@ layout: default
 
 # [](#header-1)Welcome Users
 
-### [](#header-3)This Page Has All you need to know about web languages like **html**, **css**, **w3.css** and other languages. This website also has information about _**Minecraft**_ and link to cool videos on Mineccraft.
-[Link to Minecraft Page](minecraft-page).
-[Link to Coding Page](coding-page).
+### [](#header-3)This website has all you need to know about web languages like **html**, **css**, **w3.css** and other languages. This website also has information about _**Minecraft**_ and link to cool videos on Minecraft.
 
-```
-Testing
-To add a header do <h1>header size 1</h1>.
-It gets smaller and smaller to <h6>Small header</h6>
-```
+The coding page has all the lessons and tips on one page but if you want to go directly to a selection of languages then click one of these links -
+[Html](html-lessons)
+[Css](css-lessons)
+[javascript](javascript-lessons)
+[w3.css](w3-css-lessons)
+[w3.js](w3-js-lessons)
 
 <!--
 <dl>
