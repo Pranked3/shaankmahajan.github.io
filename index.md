@@ -6,8 +6,7 @@ layout: default
 
 [Link to another page](another-page).
 
-# [](#header-1)Header 1
-This is a header
+# [](#header-1)Welcome Users
 
 ## [](#header-2)Header 2
 header 2
