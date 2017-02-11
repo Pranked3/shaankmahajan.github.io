@@ -4,12 +4,12 @@ layout: default
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
-[Link to another page](another-page).
+[Link to another page](minecraft-page).
 
 # [](#header-1)Welcome Users
 
-## [](#header-2)Header 2
-header 2
+## [](#header-2)This Page Has All you need to know about web languages like **html**, **css**, **w3.css** and other languages. This websiet also has information about _**Minecraft**_ and link to cool videos on Mineccraft.
+
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
