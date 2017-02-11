@@ -10,9 +10,6 @@ layout: default
 
 ## [](#header-2)This Page Has All you need to know about web languages like **html**, **css**, **w3.css** and other languages. This websiet also has information about _**Minecraft**_ and link to cool videos on Mineccraft.
 
-### [](#header-3)Header 3
-
-
 #### [](#header-4)Header 4
 
 *   This is an unordered list following a header.
