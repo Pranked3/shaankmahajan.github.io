@@ -4,11 +4,10 @@ layout: default
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
-[Link to Minecraft Page](minecraft-page).
-
 # [](#header-1)Welcome Users
 
-## [](#header-2)This Page Has All you need to know about web languages like **html**, **css**, **w3.css** and other languages. This websiet also has information about _**Minecraft**_ and link to cool videos on Mineccraft.
+### [](#header-3)This Page Has All you need to know about web languages like **html**, **css**, **w3.css** and other languages. This websiet also has information about _**Minecraft**_ and link to cool videos on Mineccraft.
+[Link to Minecraft Page](minecraft-page).
 
 #### [](#header-4)Header 4
 
