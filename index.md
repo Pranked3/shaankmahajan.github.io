@@ -11,11 +11,15 @@ https://www.youtube.com/channel/UCXyfb_76fKo1UpTx95JfvUg
 
 <!DOCTYPE html>
 <HTML>
-<head>
 <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+</html>
 
 # [](#header-1)Header 1
-<div class="w3-blue">My Website</div>
+<!DOCTYPE html>
+<HTML>
+<link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+
+</html><div class="w3-blue">My Website</div>
 
 
 ## [](#header-2)Header 2
