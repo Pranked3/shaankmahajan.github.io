@@ -30,5 +30,7 @@ The coding page has all the lessons and tips on one page but if you want to go d
 <br />
 <br />
 <br />
+<hr />
 Website made by shaankmahajan. Check out my youtube channel -
 [My Youtube Channel](https://www.youtube.com/channel/UCXyfb_76fKo1UpTx95JfvUg)
+<hr />
