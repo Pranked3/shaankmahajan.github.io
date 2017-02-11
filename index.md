@@ -4,32 +4,14 @@ layout: default
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
-[Link to another page](minecraft-page).
+[Link to Minecraft Page](minecraft-page).
 
 # [](#header-1)Welcome Users
 
 ## [](#header-2)This Page Has All you need to know about web languages like **html**, **css**, **w3.css** and other languages. This websiet also has information about _**Minecraft**_ and link to cool videos on Mineccraft.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
 ### [](#header-3)Header 3
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
 #### [](#header-4)Header 4
 

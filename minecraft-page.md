@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Welcome to another page
+## Minecraft and Cool Videos
 
-# [](#header-1)Minecraft 
+# [](#header-1)Minecraft
 
 [back](./)
