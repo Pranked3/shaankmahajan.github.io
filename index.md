@@ -7,6 +7,14 @@ layout: default
 ### [](#header-3)This website has all you need to know about web languages like **html**, **css**, **w3.css** and other languages. This website also has information about _**Minecraft**_ and link to cool videos on Minecraft.
 
 The coding page has all the lessons and tips on one page but if you want to go directly to a selection of languages then click one of these links -
+<table>
+<thead<
+<tr><th></th><th></th></tr>
+</thead>
+<tbody style="color: blue;">
+<tr><td>[Coding Page](coding-page)</td><td>[Minecraft Page](minecraft-page)</td>
+</tbody>
+</table>
 <br />
 [Html](html-lessons)
 <br />
