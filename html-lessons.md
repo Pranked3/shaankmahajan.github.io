@@ -25,10 +25,9 @@ Then when you open the file, it will open your default browser and display what 
 <br />
 <br />
 ### [](#header-3)Putting stuff inside the Html document -
-To put stuff in the Html document, right click and open with any text editor (notepad, textedit, _atom_) and first type in this code -
+To put stuff in the Html document, right click and open with any text editor and first type in this code -
 <br />
 ```
-<!DOCTYPE html>
 <html>
 </html>
 ```
@@ -39,7 +38,6 @@ This code will tell the browser that the type of document it is reading is Html 
 Everything has a head and a body so add a head and body to the html document inside the <html></html> thing.
 <br />
 ```
-<!DOCTYPE html>
 <html>
 <head>
 </head>
@@ -48,5 +46,6 @@ Everything has a head and a body so add a head and body to the html document ins
 </html>
 ```
 <br />
-The <> and </> signs are used to define how the content in them is displayed on the screen like a big or small text or a hyperlink. Everything has a duplicate in this Html document except the first line because Html nearly every html thing (element) has a opening **_tag_** and a closing **_tag_**. This is done so that the browser knows when to stop the data inside the tags like a change of color or font size.
+The <> and </> signs are used to define how the content in them is displayed on the screen like a big or small text or a hyperlink. Nearly everything has a duplicate in this Html document because Html nearly every html thing (element) has a opening **_tag_** and a closing **_tag_**. This is done so that the browser knows when to stop the data inside the tags like a change of color or font size.
 <br />
+IMPORTANT - In Html 5, a _!DOCTYPE html_ tag has to be put at the start of a document. It should be in between <> but I cant show it as it is not allowed in this language (github markdown).
