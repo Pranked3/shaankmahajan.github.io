@@ -57,7 +57,38 @@ Everything has a head and a body so add a head and body to the html document ins
 ```
 
 <br />
-The <> and </> signs are used to define how the content in them is displayed on the screen like a big or small text or a hyperlink. Nearly everything has a duplicate in this Html document because Html nearly every html thing (element) has a opening **_tag_** and a closing **_tag_**. This is done so that the browser knows when to stop the data inside the tags like a change of color or font size. The closing tag has a  / before the name of the tag.
+The <> and </> signs are used to define how the content in them is displayed on the screen like a big or small text or a hyperlink. Nearly everything has a duplicate in this Html document because Html nearly every html thing (element) has a opening **_tag_** and a closing **_tag_**.
+<br />
+This is done so that the browser knows when to stop the data inside the tags like a change of color or font size. The closing tag has a  / before the name of the tag.
 <br />
 <br />
 IMPORTANT - In Html 5, a _!DOCTYPE html_ tag has to be put at the start of a document. It should be in between <> but I cant show it as it is not allowed in this language (github markdown).
+<br />
+<br />
+<hr />
+### [](#header-3)Adding content to the web page -
+First a Header for the document is needed so add a header in the body of the html document like this -
+
+<br />
+
+```
+<h1>My header</h1>
+```
+
+<br />
+This will give a output of My header in a large font. The header can vary from 1 to 6 so -
+
+<br />
+
+```
+<h1>Biggest Header</h1>
+<h2>Bigger Header</h2>
+<h3>Big Header</h1>
+<h4>Small header</h4>
+<h5>Smaller header</h5>
+<h6>Smallest Header</h6>
+```
+
+<br />
+
+These are the types of headers in Html.
