@@ -26,14 +26,16 @@ Then when you open the file, it will open your default browser and display what 
 <br />
 <hr />
 
-##[](#header-2)Putting stuff inside the Html document -
-<br  />
+### [](#header-3)Putting stuff inside the Html document -
+
 To put stuff in the Html document, right click and open with any text editor and first type in this code -
 <br />
 
 ```
-<h1>
+<html>
+</html>
 ```
+
 <br />
 
 This code will tell the browser that the type of document it is reading is Html and not something else. Then the <html></html> code is where the Html document starts. All the main Html content is put between these tags.
@@ -44,7 +46,6 @@ This code will tell the browser that the type of document it is reading is Html 
 Everything has a head and a body so add a head and body to the html document inside the <html></html> thing.
 
 <br />
-
 ```
 <html>
 <head>
@@ -53,7 +54,6 @@ Everything has a head and a body so add a head and body to the html document ins
 </body>
 </html>
 ```
-
 <br />
 The <> and </> signs are used to define how the content in them is displayed on the screen like a big or small text or a hyperlink. Nearly everything has a duplicate in this Html document because Html nearly every html thing (element) has a opening **_tag_** and a closing **_tag_**. This is done so that the browser knows when to stop the data inside the tags like a change of color or font size. The closing tag has a  / before the name of the tag.
 <br />
