@@ -120,9 +120,26 @@ Unordered Lists -
 <br />
 
 ```
-<ul>My unordered lists
+<ul>My unordered list
 <li>Point 1</li>
 <li>Point 2</li>
 <li>Point 3</li>
 </ul>
 ```
+
+<br />
+
+To add ordered lists -
+
+<br />
+
+```
+<ol>My ordered list
+<li>Number 1</li>
+<li>Number 2</li>
+<li>Number 3</li>
+</ol>
+```
+
+<br />
+The <li></li> tage is used for both the lists so that when using css or styling, all li's can be changed in less typing. See the **_css_** lesson for that.
