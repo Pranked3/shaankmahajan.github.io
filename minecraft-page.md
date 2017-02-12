@@ -23,3 +23,7 @@ There are many Minecraft servers on the internet. Thousands of people play on th
 This is Skywars -
 ![image](/images/skywars-1.png)
 One of the Skywars arenas from the sky.
+<br />
+<hr />
+<br />
+If you are confused on what skywars is then click on [this](https://www.youtube.com/watch?v=3d_OFpaJ4hA&list=PLAlswdfmYUi60_SIz1cG9HxQpNrfwLYE9) link.
