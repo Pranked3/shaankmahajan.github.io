@@ -146,7 +146,9 @@ The <li></li> tag is used for both the lists so that when using css or styling, 
 <br />
 <hr />
 <br />
+
 ### [](#header-3)Changing Appearance of Elements -
+
 Elements in Html can look different if a little code is added in between the < and >. This piece of code except the element itself is known ad a attribute.
 One of the most used attributes is the **style** attribute.
 This is how to change the color of text using the style attribute in a paragraph -
@@ -162,7 +164,7 @@ This will change the color of the text to blue. The attribute's value is put ins
 <br />
 The style attribute has a format (inside the double quotes) like this -
 
-<br />s
+<br />
 
 ```
 style-name: value;
@@ -181,4 +183,4 @@ color: red; font-family: cursive; font-size: 40px;
 <br />
 This will make the element's size as 40px, the font-family (font) as cursive and the color red.
 <br />
-To define alot of attributes, a ; (semicolon) is added so that the computer knows that the command has stoped and that another one is starting.
+To define alot of attributes add a semicolon (;) so that the computer knows that the command has stoped and that another one is starting.
