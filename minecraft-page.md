@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+[back](./)
+<br />
 
 # Minecraft and Cool Videos
 
@@ -8,6 +10,8 @@ layout: default
 Minecraft is a Game made by Mojang (on Java) in which the user survives, mines, fights and builds amazing creations like the one below -
 ![image](/images/myislandfinalnoshaders copy.png)
 My Island with my human shaped house at night
+
+<hr />
 
 <br />
 <br />
@@ -20,7 +24,4 @@ There are many Minecraft servers on the internet. Thousands of people play on th
 <br />
 This is Skywars -
 ![image](/images/skywars-1.png)
-One of the The Skywars arenas from the sky.
-
-
-[back](./)
+One of the Skywars arenas from the sky.
