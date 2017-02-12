@@ -142,4 +142,4 @@ To add ordered lists -
 ```
 
 <br />
-The <li></li> tage is used for both the lists so that when using css or styling, all li's can be changed in less typing. See the **_css_** lesson for that.
+The <li></li> tag is used for both the lists so that when using css or styling, all li's can be changed in less typing. See the **_css_** lesson for that.
