@@ -32,7 +32,7 @@ To put stuff in the Html document, right click and open with any text editor and
 </html>
 ```
 <br />
-This code will tell the browser that the type of document it is reading is Html and not something else. Then the <html></html> code beneath it is where the Html document starts. All the main Html content is put between these tags.
+This code will tell the browser that the type of document it is reading is Html and not something else. Then the <html></html> code is where the Html document starts. All the main Html content is put between these tags.
 <br />
 <br />
 Everything has a head and a body so add a head and body to the html document inside the <html></html> thing.
