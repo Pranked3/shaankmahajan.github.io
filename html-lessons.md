@@ -161,15 +161,23 @@ This is how to change the color of text using the style attribute in a paragraph
 This will change the color of the text to blue. The attribute's value is put inside double quotes "" .
 <br />
 The style attribute has a format (inside the double quotes) like this -
+
+<br />s
+
 ```
 style-name: value;
 ```
+
 <br />
 The style name can be anything from like color (to change color) or font-family (to change type of font).
 To change the font type and color and size, do this (in double quotes) -
+
+<br />
+
 ```
 color: red; font-family: cursive; font-size: 40px;
 ```
+
 <br />
 This will make the element's size as 40px, the font-family (font) as cursive and the color red.
 <br />
