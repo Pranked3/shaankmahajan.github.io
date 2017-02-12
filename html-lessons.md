@@ -151,6 +151,7 @@ The <li></li> tag is used for both the lists so that when using css or styling, 
 
 Elements in Html can look different if a little code is added in between the < and >. This piece of code except the element itself is known ad a attribute.
 One of the most used attributes is the **style** attribute.
+<br />
 This is how to change the color of text using the style attribute in a paragraph -
 
 <br />
@@ -172,6 +173,7 @@ style-name: value;
 
 <br />
 The style name can be anything from like color (to change color) or font-family (to change type of font).
+<br />
 To change the font type and color and size, do this (in double quotes) -
 
 <br />
