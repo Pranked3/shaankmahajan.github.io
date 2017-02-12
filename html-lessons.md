@@ -143,3 +143,34 @@ To add ordered lists -
 
 <br />
 The <li></li> tag is used for both the lists so that when using css or styling, all li's can be changed in less typing. See the **_css_** lesson for that.
+<br />
+<hr />
+<br />
+### [](#header-3)Changing Appearance of Elements -
+Elements in Html can look different if a little code is added in between the < and >. This piece of code except the element itself is known ad a attribute.
+One of the most used attributes is the **style** attribute.
+This is how to change the color of text using the style attribute in a paragraph -
+
+<br />
+
+```
+<p style="color: blue;">My Blue paragraph</p>
+```
+
+<br />
+This will change the color of the text to blue. The attribute's value is put inside double quotes "" .
+<br />
+The style attribute has a format (inside the double quotes) like this -
+```
+style-name: value;
+```
+<br />
+The style name can be anything from like color (to change color) or font-family (to change type of font).
+To change the font type and color and size, do this (in double quotes) -
+```
+color: red; font-family: cursive; font-size: 40px;
+```
+<br />
+This will make the element's size as 40px, the font-family (font) as cursive and the color red.
+<br />
+To define alot of attributes, a ; (semicolon) is added so that the computer knows that the command has stoped and that another one is starting.
