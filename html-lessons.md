@@ -92,3 +92,37 @@ This will give a output of My header in a large font. The header can vary from 1
 <br />
 
 These are the types of headers in Html.
+<br />
+
+With a header there has to be a paragraph so to add a paragraph to your page, do this -
+
+<br />
+
+```
+<h1>My header</h1>
+<p>A paragraph about my header</p>
+```
+
+<br />
+
+The paragraph (<p></p>) tag has a smaller font size.
+<br />
+<hr />
+<br />
+
+### [](#header-3)Adding lists -
+To add a list to a Html document, first think if you want numbers or points. Points are found in unordered lists (ul) and numbers are found in ordered lists(ol).
+<br />
+To use unordered and ordered lists add a <li></li> tag in them for a new point or number.
+<br />
+Unordered Lists -
+
+<br />
+
+```
+<ul>My unordered lists
+<li>Point 1</li>
+<li>Point 2</li>
+<li>Point 3</li>
+</ul>
+```
