@@ -2,9 +2,9 @@
 layout: default
 ---
 
-## Programming and Cool Stuff
+## Programming and Cool tricks
 
-# [](#header-1)Html
-[](#header-3)Html is the first language you should learn as it is very easy(looks like english nearly) and alot of languages are like it so it is like the base for all languages.
+# [](#header-1)Html -
+
 
 [back](./)
