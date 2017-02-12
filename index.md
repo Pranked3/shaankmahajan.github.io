@@ -25,11 +25,8 @@ The coding page has cool tricks and tips on some programming languages on one pa
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
+
+
 <hr />
 Website made by shaankmahajan. Check out my youtube channel -
 [My Youtube Channel](https://www.youtube.com/channel/UCXyfb_76fKo1UpTx95JfvUg)
