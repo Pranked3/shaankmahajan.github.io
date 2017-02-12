@@ -8,7 +8,7 @@ layout: default
 [Coding Page](coding-page) [Minecraft Page](minecraft-page)
 <br />
 
-The coding page has cool tricks and tips on come languages on one page but if you want to go directly to a selection of languages then click one of these links -
+The coding page has cool tricks and tips on some programming languages on one page but if you want to go directly to a selection of languages then click one of these links -
 <br />
 [Html](html-lessons)
 <br />
