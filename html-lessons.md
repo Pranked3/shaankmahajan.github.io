@@ -25,6 +25,7 @@ Then when you open the file, it will open your default browser and display what 
 <br />
 <hr />
 <br />
+
 ### [](#header-3)Putting stuff inside the Html document -
 
 To put stuff in the Html document, right click and open with any text editor and first type in this code -
