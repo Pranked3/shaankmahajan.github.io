@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# [](#header-1)Welcome Users video
+# [](#header-1)Welcome Users
 
 ### [](#header-3)This website has all you need to know about web languages like **html**, **css**, **w3.css** and other languages. This website also has information about _**Minecraft**_ and link to cool videos on Minecraft.
 [Coding Page](coding-page) [Minecraft Page](minecraft-page)
