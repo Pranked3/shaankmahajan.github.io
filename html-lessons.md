@@ -89,6 +89,8 @@ This will give a output of My header in a large font. The header can vary from 1
 <h6>Smallest Header</h6>
 ```
 
+[Output](html-lessons-output-demos/header1to6-1.html)
+
 <br />
 
 These are the types of headers in Html.
@@ -102,6 +104,8 @@ With a header there has to be a paragraph so to add a paragraph to your page, do
 <h1>My header</h1>
 <p>A paragraph about my header</p>
 ```
+
+[Output](html-lessons-output-demos/header-paragraph-1.html)
 
 <br />
 
@@ -127,6 +131,8 @@ Unordered Lists -
 </ul>
 ```
 
+[Output](html-lessons-output-demos/ordered-unordered-lists-1.html)
+
 <br />
 
 To add ordered lists -
@@ -143,6 +149,29 @@ To add ordered lists -
 
 <br />
 The <li></li> tag is used for both the lists so that when using css or styling, all li's can be changed in less typing. See the **_css_** lesson for that.
+<br />
+<br />
+To add compound lists -
+
+<br />
+
+```
+<ol type="A">Types of foods -
+<li>Carbohydrates </li>
+  <ul><li>Bread</li>
+  <li>Pizza</li>
+  <li>Other carbohydrates ...</li>
+  </ul>
+<li>Proteins </li>
+  <ul><li>Protein food 1</li>
+  <li>Protein food 2</li>
+  <li>Protein food 3</li>
+  </ul>
+</ol>
+```
+
+[Output](html-lessons-output-demos/compound-lists-1.html)
+
 <br />
 <hr />
 <br />
