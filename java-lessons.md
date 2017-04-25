@@ -36,7 +36,7 @@ The java command will execute the file and display everything in the terminal wi
 <br />
 <hr />
 <br />
-### Let's Learn java now -
+## Let's Learn java now -
 <br />
 The first thing you need to do is open notepad or any text editor and save the file as (filename.java). Then do this in the file -
 <br />
@@ -46,6 +46,31 @@ public class filename {}
 <br />
 This will create a class of the filename(will be explained later).
 IMPORTANT - The filename saved and in the thing above should be exactly the same (just without the .java in the example above).
+<br />
+<hr />
+<br />
+## Main Executing thing -
+<br />
+All the stuff that you want to be executed when the app starts will be put inside this (which is inside the class above).s
+<br />
+```
+public static void main(String[] args) {}
+```
+<br />
+All the stuff that you want to be executed will be put inside the parenthesis {}.
+<br />
+<hr />
+<br />
+## Printing stuff -
+To print stuff into the console use this -
+<br />
+```
+System.out.println("Hello World/viewers");
+```
+<br />
+Remember that java is a case sensitive language so remember the capital and small letters of the command above. Also after doing any command in java you HAVE to put a ; or the code wont run.
+<br />
+Try running the code above in the {} of the main executing thing. You have created your first java code :D
 <br />
 <hr />
 <br />
