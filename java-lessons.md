@@ -68,7 +68,7 @@ To print stuff into the console use this -
 System.out.println("Hello World/viewers");
 ```
 <br />
-##### Remember that java is a **case sensitive language** so remember the __capital and small letters__ of the command above. Also after doing any command in java you HAVE to put a ; or the code wont run.
+#### Remember that java is a **case sensitive language** so remember the __CAPITAL and small LETTERS__ of the command above. Also after doing any command in java you HAVE to put a ; or the code wont run.
 <br />
 Try running the code above in the {} of the main executing thing. You have created your first java code :D
 <br />
