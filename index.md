@@ -20,7 +20,7 @@ The coding page has cool tricks and tips on some programming languages on one pa
 <br />
 [w3.js](w3-js-lessons)
 <br />
-[Java](java-lessons)
+[Java](java-lessons.md)
 <br />
 <br />
 <br />
