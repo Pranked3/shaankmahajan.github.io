@@ -14,11 +14,13 @@ The coding page has cool tricks and tips on some programming languages on one pa
 <br />
 [Css](css-lessons)
 <br />
-[javascript](javascript-lessons)
+[Javascript](javascript-lessons)
 <br />
 [w3.css](w3-css-lessons)
 <br />
 [w3.js](w3-js-lessons)
+<br />
+[Java](java-lessons)
 <br />
 <br />
 <br />
