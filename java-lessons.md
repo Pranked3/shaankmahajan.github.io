@@ -34,4 +34,18 @@ After doing the javac command then wait a while till the command completes(java 
 <br />
 The java command will execute the file and display everything in the terminal window or open another window if you java code is like that.
 <br />
+<hr />
+<br />
+### Let's Learn java now -
+<br />
+The first thing you need to do is open notepad or any text editor and save the file as (filename.java). Then do this in the file -
+<br />
+```
+public class filename {}
+```
+<br />
+This will create a class of the filename(will be explained later).
+IMPORTANT - The filename saved and in the thing above should be exactly the same (just without the .java in the example above).
+<br />
+<hr />
 <br />
