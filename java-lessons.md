@@ -9,7 +9,7 @@ layout: default
 <br />
 <br />
 ## [](#header-1)About -
-Java is a programming language which is used to create apps and games like Minecraft. It requires a jdk (java developement kit). First so execute java (on macs. Use Eclipse on Windows) :-
+Java is a programming language which is used to create apps and games like Minecraft. It requires a jdk (java developement kit). I recommend eclipse or netbeans as a IDE. So lets learn some java :-
 <br />
 <hr />
 <br />
