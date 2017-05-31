@@ -15,7 +15,7 @@ Java is a programming language which is used to create apps and games like Minec
 <br />
 ### [](#header-3)Executing java thought terminal -
 <br />
-First open your terminal (bash) and navigate to you directory where your .java file is using :-
+First open your shell(terminal/cmd or something) and navigate to you directory where your .java file is present :-
 <br />
 ```
 $ cd path-to-your-file
