@@ -7,7 +7,7 @@ layout: default
 # Minecraft and Cool Videos
 
 ## [](#header-2)Minecraft -
-Minecraft is a Game made by Mojang (on Java) in which the user survives, mines, fights and builds amazing creations like the one below -
+Minecraft is a Game made by Notch and Mojang (on Java) in which the user survives, mines, fights and builds amazing creations like the one below -
 ![image](/images/myislandfinalnoshaders copy.png)
 My Island with my human shaped house at night
 <br />
